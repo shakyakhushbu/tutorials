@@ -6,5 +6,3 @@ This branch is using for branch demo
 This branch is for another banch demo
 This is Newbranch
 For branch demostration
-
-This is branch named edit
